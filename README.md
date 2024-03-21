@@ -10,5 +10,6 @@ Me llamo Lautaro Pingitore, tengo 18 años. Me gusta mucho leer y jugar videojue
 Mis sagas de libros favoritas son del mismo autor el cual se llama Brandon Sanderson y son *"Escuadron", "Nacidos de la Bruma" y "Archivo de las tormentas"*
 
 ![Escuadron](https://th.bing.com/th/id/R.8ac9e0a709f79385604dda6ff58a1ba5?rik=Pu%2b5VnL5vFDMqg&pid=ImgRaw&r=0)
-![Nacidos de la Bruma](https://th.bing.com/th/id/OIP.4dIgrK9g94uci60R-d8CUAAAAA?rs=1&pid=ImgDetMain)
-![Archivo de las Tormentas](https://th.bing.com/th/id/OIP.Hbog-DCkP0HRFHjzFt3GiAAAAA?rs=1&pid=ImgDetMain)
+![Nacidos de la Bruma](https://github.com/pdepjm/2024-tp0-presentacion-LautaroPingitore/assets/137835527/92001246-54b7-40e2-9c0d-975874e72877)
+![Archivo de las Tormentas](https://github.com/pdepjm/2024-tp0-presentacion-LautaroPingitore/assets/137835527/d45072e3-3d5d-4781-a999-76eb662227aa)
+
